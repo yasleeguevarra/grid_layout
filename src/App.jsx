@@ -42,7 +42,7 @@ function App() {
         <div className="footer-content">
           <div className="small-box3"></div>
           {/* These are the two small boxes in the footer */}
-          <Footersmallbox text="C-PCIT9" />
+          <Footersmallbox text="C-PEITEL3" />
           <Footersmallbox text="IT3A" />
           <div className="small-box6"></div>
         </div>
